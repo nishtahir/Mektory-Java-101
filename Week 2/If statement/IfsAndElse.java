@@ -48,18 +48,17 @@ public class IfsAndElse {
 		// == does not work with Strings
 
 		if (response.equals("yes")) {
-			// TODO - Launch real ICBM (will be covered in future lesson)
+			// TODO - Launching real ICBMs (will be covered in future lesson)
 			System.out.println("Congratulations, the moon has been destroyed");
 		}
 		// optional else if
 		else if (response.equals("silence")) {
-			// TODO - Actually revive people (will be covered in new course)
+			// TODO - Actually resurect people (will be covered in new course)
 			System.out.println("Secret code entered. Reviving MJ");
 
 		} else {
 			// This part is executed only if the others don't work
 			System.out.println("The moon is safe");
 		}
-
 	}
 }
