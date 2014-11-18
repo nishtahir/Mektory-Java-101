@@ -8,6 +8,13 @@ public class Arrays {
 	public static void main(String[] args) {
 		// we can declare an array using '[ ]' 'square brackets'
 		int[] ages = { 1, 4, 6, 82, 45, 88, 99 };
+
+		// We can also declare one with a fixed size
+		String[] emails = new String[5];
+
+		// and populate it manually
+		emails[0] = "first@example.com";
+		emails[1] = "second@example.com";
 		
 		// We need a loop counter to control the while loop
 		int counter = 0;
