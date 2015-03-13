@@ -10,15 +10,15 @@ If you want to have your programs featured, provide some feedback or offer a sug
 
 ##Contents 
 
-- Module 1
+- [Module 1] (https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%201)
 	- Hello World
 	- Basic math
 	- Getting input
-- Module 2
+- [Module 2](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%202)
 	- Getting input
 	- Better math with the Math library 
 	- Conditionals with *if* statement
-- Module 3
+- [Module 3](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%203)
 	- Loops
 	- Switches
 	- Building a text based adventure game 
