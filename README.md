@@ -25,7 +25,7 @@ If you want to have your programs featured, provide some feedback or offer a sug
 
 	
 ## Important keyboard shortcuts 
-These shortcust work with the **Eclipse IDE**. They may require different combinations in other tools.
+These shortcuts work with the **Eclipse IDE**. They may require different combinations in other tools.
 
 ####Auto format code
 	 CTRL + Shift + F 	(Windows/Linux)
