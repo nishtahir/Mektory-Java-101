@@ -22,8 +22,12 @@ If you want to have your programs featured, provide some feedback or offer a sug
 	- Loops
 	- Switches
 	- Building a text based adventure game 
-
-	
+- [Module 4](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%204)
+	- Arrays
+	- Methods
+- [Module 5](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%205)
+	- Objects
+		
 ## Important keyboard shortcuts 
 These shortcuts work with the **Eclipse IDE**. They may require different combinations in other tools.
 
