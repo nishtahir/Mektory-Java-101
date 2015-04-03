@@ -10,7 +10,6 @@ import java.util.Scanner;
  *
  */
 public class Methods {
-
 	
 	public static void main(String[] args) {
 		System.out.println(toUpper("I met Bruce Wayne last winter"));
