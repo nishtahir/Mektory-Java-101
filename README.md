@@ -27,7 +27,10 @@ If you want to have your programs featured, provide some feedback or offer a sug
 	- Methods
 - [Module 5](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%205)
 	- Objects
-		
+- [Module 6](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%206)
+	- Handling errors
+	- Reading and writing to files
+			
 ## Important keyboard shortcuts 
 These shortcuts work with the **Eclipse IDE**. They may require different combinations in other tools.
 
