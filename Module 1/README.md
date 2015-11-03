@@ -11,5 +11,5 @@ do this by hand. Write a program that converts temperatures from Fahrenheit to c
 What time is it right now? Wonder how many seconds it's been since some other important time?
 Write a program that calculates this for you. (Use the 24 hour clock for this - at 4pm the current time would be 16)
 
-####Hints
+####Hint
 Create variables `hours`, `minutes`, `seconds` and set these close to the current time. Calculate the difference from 00 00 00.

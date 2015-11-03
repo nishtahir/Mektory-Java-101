@@ -1,4 +1,4 @@
-public class Arrays2{
+public class Exercise1{
 	//You can declare an array by specifying the size;
 	int[] myDynamicArray = new int[10];
 
