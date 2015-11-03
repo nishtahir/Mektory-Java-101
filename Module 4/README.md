@@ -2,7 +2,7 @@
 
 #Arrays
 
-1. Write a program that takes in a series of numbers from 1 .. 9. Your program should notify the user when they try
+1. Write a program that takes in 9 numbers and stores them in an array of size 10. Each number should be between 1 and 10. Notify the user when they try
 to enter invalid numbers (numbers that aren't between one and 10) and tell the user which numbers are missing. 
 For example, entering 1, 2, 3, 4, 5, 6, 7, 9, 10 should return 8 as output. 
 
