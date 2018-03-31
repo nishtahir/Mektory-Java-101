@@ -1,4 +1,4 @@
-#Mektory-Java-101
+# Mektory-Java-101
 
 Hello, coding enthusiasts!
 
@@ -9,13 +9,13 @@ You will also find programs that other enthusiats have created.
 If you want to have your programs featured, provide some feedback or offer a suggestion, email me at <nishtahir@outlook.com>
 
 
-#Feedback
+# Feedback
 I'd like to have your feedback. Please take a moment to fillout the [feedback form](https://docs.google.com/forms/d/1Lrmp108OXBRgTBHRv-i7YK_LF0PNrsuxbE6-Huekx5k/viewform)
 
 
-##Contents 
+# Contents 
 
-- [Module 1] (https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%201)
+- [Module 1](https://github.com/nishtahir/Mektory-Java-101/tree/master/Module%201)
 	- Hello World
 	- Basic math
 	- Getting input
@@ -40,41 +40,41 @@ I'd like to have your feedback. Please take a moment to fillout the [feedback fo
 
 General short cuts that work everywhere on your operating system
 
-####Undo
+#### Undo
 	 CTRL + Z	(Windows/Linux)
 	 CMD + Z	(Mac)
 	 
-####Redo
+#### Redo
 	 CTRL + Y	(Windows/Linux)
 	 CMD + Shift + Z	(Mac)	 
 
-####Cut
+#### Cut
 	 CTRL + X	(Windows/Linux)
 	 CMD + X	(Mac)
 	 
-####Copy
+#### Copy
 	 CTRL + C	(Windows/Linux)
 	 CMD + C	(Mac)	 
 
-####Paste
+#### Paste
 	 CTRL + V	(Windows/Linux)
 	 CMD + V	(Mac)	 
 
 These shortcuts work with the **Eclipse IDE**. They may require different combinations in other tools.
 
-####Auto format code
+#### Auto format code
 	 CTRL + Shift + F 	(Windows/Linux)
 	 CMD + Shift + F 	(Mac)
 	 
-####Auto import
+#### Auto import
 	 CTRL + Shift + O 	(Windows/Linux)
 	 CMD + Shift + O 	(Mac)
 	 
-####Quick comment
+#### Quick comment
 	 CTRL + / 	(Windows/Linux)
 	 CMD + / 	(Mac)
 	
-####Refactor rename
+#### Refactor rename
 	 ALT + Shift + R 	(Windows/Linux)
 	 CMD + ALT + R 	(Mac)
 
